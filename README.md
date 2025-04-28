@@ -13,6 +13,12 @@ npm install typescript
 npm install @types/node
 npm install tsx
 
+Knex
+npm install knex
+
+npm install pg
+npm install sqlite3
+
 
 ### Regras da aplicação
 
